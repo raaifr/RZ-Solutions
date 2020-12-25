@@ -1,0 +1,41 @@
+﻿.login-form{
+    width:100%!important;
+    min-width:20rem;
+    margin-top:2rem;
+}
+
+.row {
+
+    margin-top: 2rem;
+}
+
+#inputName {
+    min-height: 3rem;
+    min-width: 40rem;
+}
+
+#inputEmail {
+    min-height: 3rem; 
+    min-width: 21.85rem;
+    margin-right: 9px;
+}
+
+#inputPhone {
+    min-height: 3rem;
+}
+
+#inputMsg {
+    min-height: 9rem;
+    min-width: 40rem;
+}
+
+#btnSubmit{
+    min-width: 10rem;
+    float:right;
+    margin-right:1.6rem;
+}
+.company_map iframe {
+    width: 100%;
+    min-height: 300px;
+    margin-bottom: -6px;
+}

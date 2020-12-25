@@ -1,0 +1,43 @@
+﻿body {
+    background: url(../Content/core-images/bridge.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+footer {
+    color: #ededed !important;
+    font-weight: 200;
+}
+
+.nav-link {
+    color: #ededed !important;
+    font-weight: 500;
+}
+
+.nav-item a {
+    color: #ededed !important;
+    font-weight: 500;
+    transition-duration: 0.5s;
+}
+
+    .nav-item a:hover {
+        background-color: rgba(254, 254, 254, 0.1);
+        border-radius: 50px;
+        color: #808080;
+    }
+
+    .nav-item a.active {
+        font-weight: 900;
+    }
+
+h1 {
+    font-size:55px;
+    color:#ededed;
+    text-shadow:20px,12px,2px,#000000;
+}
+
+#welc {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: rgba(0, 0, 0, 0.29);
+    border-radius:20px;
+}

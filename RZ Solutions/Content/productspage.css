@@ -1,0 +1,12 @@
+﻿.jumbotron {
+    background-image: url(core-images/library2.jpg);
+    background-size: cover;
+}
+
+.jumbotron h1{
+    color:#f1f1f1;
+}
+
+    .jumbotron p {
+        color: #ffffff;
+    }
